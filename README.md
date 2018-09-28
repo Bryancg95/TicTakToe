@@ -25,7 +25,7 @@ The three in line, also known as zeros and crosses, three in a row (Spain, Ecuad
 First you have to clone the repository
 
 
-<pre><code>git clone https://github.com/Bryancg95/TicTakToeGem.git</code></pre>
+<pre><code>git clone https://github.com/Bryancg95/TicTakToe.git</code></pre>
 
 
 
